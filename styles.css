@@ -78,13 +78,6 @@ justify-content: space-around;
 align-items: center;
 }
 
-.encabezado h1 {
-display: flex;
-justify-content: center;
-background: #222;
-color: white;
-
-}
 
 
 
@@ -168,4 +161,9 @@ border-radius: 0.5em;
 padding: 6px 32px;
 color: white;
 
+}
+
+.footer {
+display: flex;
+justify-content: center;
 }
